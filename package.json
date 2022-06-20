@@ -1,0 +1,16 @@
+{
+  "name": "defrosting",
+  "version": "1.0.0",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "package.json": "^2.0.1",
+    "phaser": "^3.55.2"
+  },
+  "description": "A very basic platformer game made with the Phaser game engine. Collect the wood for points and avoid the bouncing snowballs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mcmakkers",
+  "license": "ISC"
+}
